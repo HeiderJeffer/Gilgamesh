@@ -1,5 +1,7 @@
 # Gilgamesh
-- Gilgamesh is an open source project developed by Heider Jeffer, Supervisor Professor Xiao
+- Gilgamesh is an open source project 
+- Developed by Heider Jeffer 
+- Supervisor Professor Xiao
 - Submited to:
 - Free University of Bolzano - Faculty of Computer Science
 - Using Nvivo 12 as an Implementation to the following Research Question: 
