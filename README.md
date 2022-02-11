@@ -9,9 +9,11 @@
 
 ## Submited to
 Free University of Bolzano - Faculty of Computer Science
-##  Software Requirments:
+##  Software:
 - Nvivo 12 (Windows)
 - Nvivo 12 (MAC)
+- Atlas ti
+- QDPX
 ## Tools:
 Thematic Data Analysis and Qualitative Data Analysis.
 ## Project input:
