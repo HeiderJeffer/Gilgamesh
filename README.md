@@ -15,6 +15,7 @@ Free University of Bolzano - Faculty of Computer Science
 - Nvivo 12 (MAC)
 - Atlas ti
 - QDPX
+- Diagram https://www.diagrams.net/
 # Tools
 Thematic Data Analysis and Qualitative Data Analysis.
 # Gilgamesh Database
