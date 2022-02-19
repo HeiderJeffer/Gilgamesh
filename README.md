@@ -4,7 +4,7 @@
 - Supervisor Professor Xiaofeng Wang (xiaofeng.wang@unibz.it)
 # Exemplar cases
 - Theranos case study from Gilgamesh
-- ![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/Theranos.png)
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/Theranos.png)
 # Gilgamesh Official Website
 https://github.com/HeiderJeffer/Gilgamesh
 # Research Question:
