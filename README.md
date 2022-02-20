@@ -16,6 +16,10 @@ Free University of Bolzano - Faculty of Computer Science
 - Atlas ti
 - QDPX
 - Diagram https://www.diagrams.net/
+# The Command Line
+- git clone https://github.com/HeiderJeffer/Gilgamesh
+- git push  https://github.com/HeiderJeffer/Gilgamesh
+- git pull  https://github.com/HeiderJeffer/Gilgamesh
 # Tools
 Thematic Data Analysis and Qualitative Data Analysis.
 # Gilgamesh Database
