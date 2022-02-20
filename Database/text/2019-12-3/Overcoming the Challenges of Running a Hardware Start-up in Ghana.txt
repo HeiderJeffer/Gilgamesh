@@ -1,0 +1,59 @@
+
+Entrepreneurship
+Overcoming the Challenges of Running a Hardware Start-up in Ghana
+March 23, 2019
+By Isaac Sesi
+https://isaacsesi.com/overcoming-the-challenges-of-running-a-hardware-start-up-in-ghana/
+
+Last Month, I was a guest on Stanbic Bank Incubator’s #SBChat Twitter Chat, where I shared my thoughts on the topic “Overcoming the Challenges of Running a Hardware Start-up in Ghana”. Running a hardware startup in Africa is no joke. Just the mere fact that you want to run a hardware startup in Africa brings up a myriad of challenges such as:
+
+The difficulty of finding and paying highly skilled local engineering talent
+The lack of necessary equipment for electronics manufacturing.
+Unstable currency leading to fluctuating costs of raw materials
+Difficulty in accessing enough funding for your hardware startup
+Difficulty in scaling to mass manufacturing.
+Lack of trust for locally made electronic products.
+In this post, I answer some questions about some of these challenges and how my startup, Sesi Technologies is overcoming them.
+
+
+
+Funding: Unlike software where all you need to develop an MVP is a laptop and internet, .developing hardware is expensive. You need money to develop a prototype. You need equipment to refine your prototype. All of this cost money. You need a larger skillset to successfully develop a hardware prototype. You need a maker (the engineer who designs and prototypes the product.) then you need the software guy who will develop supporting mobile applications.  These do not come cheap. So you need to have the cash to prototype
+Technical Knowhow: Developing hardware requires a lot of specialized skills. Unfortunately, it is difficult to find people with -that skill set in Africa. Either they are already working somewhere or they are so expensive that you cannot afford them initially if you don’t have funding.
+Scaling to mass manufacturing: It is very difficult to scale to mass manufacturing in Africa. Setting up manufacturing processes, getting the right equipment, finding casing/enclosure for your products, etc are some of the challenges you will face when trying to scale your manufacturing
+ 
+
+
+
+We had a lot of support. We had support from our partners at USAID to get us set up nicely. We had access to 3 years of research that had been done on our product to refer to. We also had access to experts in industry, research, who guided us to get started with our production facility. And we had a contract already waiting for us before we finished developing so I guess I would say, we were blessed.
+
+
+
+The problem/missed opportunity. Your hardware product should solve a unique, clearly identified problem in a way which other solutions are failing to solve.
+The Market Potential: You should be able to clearly identify who is going to use your hardware and that there is a large enough market to justify bringing your product to market. People should also be willing to pay for it(you should be able to come up with a reasonable business model from the product)
+Technical complexity: The more complex your product is, the harder it will be to design, the longer it will take to get to market, the more expensive it will be to develop, the more cash you will need and the more challenges you will face. so you have to look at that.
+The competition: If your hardware product is so common that you have to compete with the similar, probably, better-designed products from China, then already you are setting yourself up for failure because China has more resources and can afford to produce good quality products at a cost you may never be able to.
+if you are looking at going into hardware, your hardware product should solve a unique, clearly identified problem in a way which other solutions are failing to solve.CLICK TO TWEET
+
+
+I see significant growth of hardware from Africa in the food/agritech space. A lot of guys such as @ujuzilikilimo are already doing some pretty good stuff in that field. Then there’s health too. People are developing affordable assistive technologies and it’s exciting. There’s the guy who developed the glove that translates sign language into audio. Then there is energy and education. Dext Technology is doing something awesome with the science set. If you’re looking for promising hardware innovations by Africans, you can check out iSHOW.
+
+
+
+I’d rather say I see many of the present barriers gradually being overcome. I see more access to funding by African startups in the coming years, I see more Africans building skills in hardware, I see outsourcing of manufacturing becoming easier, I see more policies being put in place to support hardware entrepreneurs.
+
+I see more access to funding by African startups in the coming years, I see more Africans building skills in hardware, I see outsourcing of manufacturing becoming easier, I see more policies being put in place to support hardware…CLICK TO TWEET
+
+
+Well, even though a lot of money has been raised by African startups in recent years, raising money is still difficult. First, you really have to have a good idea of how much it will cost you to develop your product and get it to the market.
+
+You can bootstrap or look for funds through grants and competitions to help you develop and built a proof of concept product that you can test. After you can develop several iterations and do very low volume production all to test the product and business model and try getting some traction, then you can go look for investors.
+
+Remember, you should identify a clear problem or missed opportunity that hasn’t been taken advantage of yet and at least, show that there exists a big enough market for it and you should be able to clearly articulate your business model to anyone.
+
+
+
+Electronics design and embedded systems skills(the guys who design and build the actual hardware), software development skills(the guys who write the software/firmware that communicates with or works on the hardware), CAD/Industrial design skills(the guy who designs casing/enclosures and packaging with mad Solid Works skills). And of course, for every business, you need the guy with the mad sales/marketing skills who goes to sell the product.
+
+
+
+Provide several funding opportunities, get experts to provide technical support to these entrepreneurs, a campaign to support and create appeal for locally manufactured hardware products, boosting the engineering capacities of institutions to better equip students with hardware skills, providing scholarships to students who want to major in hardware,  low/zero import duty on parts imported for production to reduce the cost of production, these are all ways that will help.
