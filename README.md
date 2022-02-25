@@ -1,21 +1,20 @@
-## Abstract
-
-### Problem Statement:
+#### Abstract
+#### Problem Statement:
 Hardware startups often fail. It is still based on individual convenience, intuition, or trial-and-error, without any theoretical foundation, scientific models, or scientific paper that could address why hardware startups fail, which help to learn from the failures of the past to improve the future of the hardware startups.
 
-### Research objective: 
+#### Research objective: 
 The major research question that is answered in this thesis is; why do hardware startups fail. This thesis achieved the factors that cause the failure of the hardware startups.
 
-### Approach:
+#### Approach:
 In the initial step, we collect the data from we collect the data from Gray Literature. These data represent case studies and content analysis; we used QDA (Qualitative Data Analysis Thematic analysis) to process these data. The final step is called ’Gilgamesh’ which we process the case studies and contents analysis; the outcome of this process is new factors that cause the failure of hardware startups, new failure factors will be categorized into identical groups. Finally, we stored new outcomes in the Gilgamesh database.
 
-### Research Finding: 
+#### Research Finding: 
 Customer & Market, Hardware Product & Experts, Financial, Lack Business Model, and Legal Issue; are the major categories that cause the failure of the hardware startups. Product strategy mistakes are the most frequent fatal failure factor that reflects the complexity of hardware startups. Pricing Cost Issues is the factor that explains in detail why hardware startups are challenging and often fail.
 
-### Contribution:
+#### Contribution:
 In this paper, we propose the significant factors that cause the failure of hardware startups. These factors will help to improve the future of hardware startups. The uniqueness and originality of this paper will benefit the upcoming researchers on their related work. A large number of databases in this paper can be helpful for IoT, Data science, companies, and institutions relying on hardware startups or Qualitative Data Analysis. Furthermore, this paper also suggests clear guidelines to follow on the database process to accomplish the thematic analysis and the equipment needed to accomplish the research properly.
 
-### Future work: 
+#### Future work: 
 We propose the unique factors that caused the failure of hard-ware startups. However, we could still improve these factors by adding video and audio as qualitative data and processing the Gray Literature content analysis that we stored in the database.	
 
 #### Keywords: 
