@@ -1,24 +1,18 @@
 #### Abstract
-#### Problem Statement:
-Hardware startups often fail. It is still based on individual convenience, intuition, or trial-and-error, without any theoretical foundation, scientific models, or scientific paper that could address why hardware startups fail, which help to learn from the failures of the past to improve the future of the hardware startups.
-
-#### Research objective: 
-The major research question that is answered in this thesis is; why do hardware startups fail. This thesis achieved the factors that cause the failure of the hardware startups.
-
-#### Approach:
-In the initial step, we collect the data from we collect the data from Gray Literature. These data represent case studies and content analysis; we used QDA (Qualitative Data Analysis Thematic analysis) to process these data. The final step is called ’Gilgamesh’ which we process the case studies and contents analysis; the outcome of this process is new factors that cause the failure of hardware startups, new failure factors will be categorized into identical groups. Finally, we stored new outcomes in the Gilgamesh database.
-
-#### Research Finding: 
-Customer & Market, Hardware Product & Experts, Financial, Lack Business Model, and Legal Issue; are the major categories that cause the failure of the hardware startups. Product strategy mistakes are the most frequent fatal failure factor that reflects the complexity of hardware startups. Pricing Cost Issues is the factor that explains in detail why hardware startups are challenging and often fail.
-
-#### Contribution:
-In this paper, we propose the significant factors that cause the failure of hardware startups. These factors will help to improve the future of hardware startups. The uniqueness and originality of this paper will benefit the upcoming researchers on their related work. A large number of databases in this paper can be helpful for IoT, Data science, companies, and institutions relying on hardware startups or Qualitative Data Analysis. Furthermore, this paper also suggests clear guidelines to follow on the database process to accomplish the thematic analysis and the equipment needed to accomplish the research properly.
-
-#### Future work: 
-We propose the unique factors that caused the failure of hard-ware startups. However, we could still improve these factors by adding video and audio as qualitative data and processing the Gray Literature content analysis that we stored in the database.	
-
-#### Keywords: 
-hardware startups, failure factors, Gray Literature, case study
+- Problem Statement:
+Hardware startups often fail. It is still based on individual convenience, intuition, or trial-and-error, without any theoretical foundation, scientific models, or scientific paper that could address an answer for why do hardware startups fail to improve the future of the hardware startups and the startups in general.
+- Research objective:
+The major research question that is answered in this thesis is; why do hardware startups fail. This thesis developed sets or logical rules and steps to extract the factors that cause the failure of the hardware startups from any given data-sets.
+- Approach:
+ This paper developed sets of logical steps and rules to collect, analysis and process any big data related to research question. We collected the data from Google search engine based on Gray Literature. We set steps of logical rules to include the relevant data and exclude the irrelevant, then we use Thematic analysis tools to: extract case studies from included data, failure factors from case studies. We set logical rules to extract hardware startups information from case study, finally we  set steps of logical rules to categorized the failure factors into identical groups. We store the study material in the research's official repository at GitHub called Gilgamesh.
+- Research Finding: 
+This paper find: Customer \& Market, Hardware Product \& Experts, Financial, Lack Business Model, and Legal Issue; are the major categories that cause the failure of the hardware startups. Product strategy mistakes are the most frequent fatal failure factor that reflects the complexity of hardware startups. Pricing Cost Issues is the factor that explains in detail why hardware startups are challenging and often fail.
+- Contribution:
+The uniqueness and originality of this paper will benefit the upcoming researchers on their related work. A large number of databases in this paper can be helpful for IoT, Data science, companies, and institutions relying on hardware startups or Qualitative Data Analysis. Furthermore, this paper also suggests clear guidelines to follow on the database process to accomplish the thematic analysis and the equipment needed to accomplish the research properly.
+%we show how our research finding will benefit; the hardware startups and the upcoming researchers (show it and say it).\\
+- Future work:
+This paper propose the significant factors that caused the failure of hardware startups. However, we could still improve the database, the process and the research's keywords by adding: video and audio to the database, failure factors of content analysis to the process, and IoT, AI startups to the research's keywords.
+- keywords: hardware startups, failure factors, Gray literature, case study.
 
 
 # Gilgamesh 
