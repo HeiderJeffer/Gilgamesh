@@ -57,7 +57,7 @@ Post-MortemsGray Literature
 
 #### Gilgamesh Exemplar case
 
-Theranos hardware startups data analytic, using Nvivo 12 software qualitative data analysis`<br /><br />`
+Theranos hardware startups data analytic, using Nvivo 12 software qualitative data analysis `<br /><br />`
 This Figure represent Gilgamesh Demo showing how we process our the database in Gilgamesh, using  Theranos as an exemplar case. The whole image represent Theranos document, this is  how our the data looks like,then  the right side of the image represent the coding stripe and in the left side we have the coding for selected item for example we can highlighted the failure factors, product information, Co-Founder, Stage-Fate of the product, Raise CAP, Founded, Founder, Official Website, Services. `<br /><br />`
 
 - ![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/Theranos.png)
