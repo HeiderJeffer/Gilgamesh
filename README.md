@@ -1,3 +1,4 @@
+
 #### Abstract
 
 - Problem Statement: `<br />`
@@ -52,7 +53,7 @@ Thematic Data Analysis and Qualitative Data Analysis.
 #### Gilgamesh Database
 
 Gilgamesh Database collected from:`<br />`
-CB Insights Startup Failure`<br />`
+CB Insights Startup Failure `<br />`
 Post-MortemsGray Literature
 
 #### Gilgamesh Exemplar case
