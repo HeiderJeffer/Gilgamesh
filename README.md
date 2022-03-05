@@ -1,7 +1,6 @@
 #### Abstract
 
 **Problem Statement:**
-
 Hardware startups often fail. It is still based on trial-and-error, intuition, individual convenience, without any
 scientific paper, scientific models, or theoretical foundation that could address an answer for why hardware startups fail to improve the future of the hardware startups and the startups in general.
 
@@ -10,7 +9,6 @@ scientific paper, scientific models, or theoretical foundation that could addres
 The major research question that is answered in this thesis is:  why hardware startups fail. This thesis developed sets or logical rules and steps to extract the factors that cause the failure of the hardware startups from any given data-sets.
 
 **Approach:** 
-
 This paper developed sets of logical steps and rules to collect, analysis and process any big data related to research question. We collected the data from Google search engine based on Gray Literature. We set steps of logical rules to include the relevant data and exclude the irrelevant, then we use Thematic analysis tools to: extract case studies from included data, failure factors from case studies. We set logical rules to extract hardware startups information from case study, finally we set steps of logical rules to categorize the failure factors into identical groups. We store the study material in the research’s official repository at GitHub called Gilgamesh.
 
 **Research Finding:**
