@@ -41,7 +41,8 @@ Diagram https://www.diagrams.net/ <br />
 - ![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/diagram.jpg)
 
 - Major failure factors that we extracted from the research case studies  <br />
-- ![alt text] (https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/majorfactors.jpg)  <br />
+
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/majorfactors.jpg)  <br />
 
 - Tools  <br />
 
