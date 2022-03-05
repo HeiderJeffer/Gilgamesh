@@ -14,56 +14,52 @@
   %we show how our research finding will benefit; the hardware startups and the upcoming researchers (show it and say it).\\
 - Future work:<br />
   This paper propose the significant factors that caused the failure of hardware startups. However, we could still improve the database, the process and the research's keywords by adding: video and audio to the database, failure factors of content analysis to the process, and IoT, AI startups to the research's keywords.
-- keywords: hardware startups, failure factors, Gray literature, case study.
-
-#### Gilgamesh
-
+- keywords: hardware startups, failure factors, Gray literature, case study.  <br />
+- Gilgamesh
 Gilgamesh is the laboratory part for research study <br />
 Developed by Heider Jeffer (hjeffer@unibz.it) <br />
 Supervisor Professor Xiaofeng Wang (xiaofeng.wang@unibz.it)
-
-#### Gilgamesh Official Website
-
+- Gilgamesh Official Website  <br />
 https://github.com/HeiderJeffer/Gilgamesh
 
-#### Research Question:
-
-Why Do Hardware Startups Fail?
-
-#### Submitted to
+- Submitted to  <br />
 
 Free University of Bolzano - Faculty of Computer Science
-
-#### Software
-
+- Software  <br />
 Nvivo 12 (Windows)<br />
-Nvivo 12 (MAC) <br />
-Atlas ti <br />
 QDPX <br />
 Diagram https://www.diagrams.net/ <br />
-The Command Line <br />
-git clone https://github.com/HeiderJeffer/Gilgamesh <br />
-git push  https://github.com/HeiderJeffer/Gilgamesh <br />
-git pull  https://github.com/HeiderJeffer/Gilgamesh <br />
+- The Command Line <br />
+- - git clone https://github.com/HeiderJeffer/Gilgamesh <br />
+- - git push  https://github.com/HeiderJeffer/Gilgamesh <br />
+- - git pull  https://github.com/HeiderJeffer/Gilgamesh <br />
 
-#### Tools
+
+- Data Collection and data analysis Developed 
+- by Heider Jeffer  <br />  <br />
+
+- ![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/diagram.jpg)
+
+- Major failure factors that we extracted from the research case studies  <br />
+- ![alt text] (https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/majorfactors.jpg)  <br />
+
+- Tools  <br />
 
 Thematic Data Analysis and Qualitative Data Analysis.
 
-#### Gilgamesh Database
+- Gilgamesh Database  <br />
 
 Gilgamesh Database collected from:<br />
 CB Insights Startup Failure <br />
 Post-MortemsGray Literature
 
-#### Gilgamesh Exemplar case
-
+- Gilgamesh Exemplar case  <br />
 Theranos hardware startups data analytic, using Nvivo 12 software qualitative data analysis <br /><br />
 This Figure represent Gilgamesh Demo showing how we process our the database in Gilgamesh, using  Theranos as an exemplar case. The whole image represent Theranos document, this is  how our the data looks like,then  the right side of the image represent the coding stripe and in the left side we have the coding for selected item for example we can highlighted the failure factors, product information, Co-Founder, Stage-Fate of the product, Raise CAP, Founded, Founder, Official Website, Services. <br /><br />
 
-- ![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/Theranos.png)
-- ![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/gilgamesh-video.PNG)
+- ![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/f029241a763ba5b029812fbccf6defc5d44069d4/image/2.PNG)
 
-#### This project named after Gilgamesh
+
+- This project named after Gilgamesh  <br />
 
 Gilgamesh was a hero in ancient Mesopotamian mythology and the protagonist of the Epic of Gilgamesh, an epic poem written in Akkadian during the late 2nd millennium BC. He was possibly a historical king of the Sumerian city-state of Uruk, who was posthumously deified. His rule probably would have taken place sometime in the beginning of the Early Dynastic Period (Mesopotamia) (henceforth ED), c. 2900 – 2350 BC, though he became a major figure in Sumerian legend during the Third Dynasty of Ur (c. 2112 – c. 2004 BC).
