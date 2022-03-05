@@ -9,10 +9,10 @@
 * Future work: This paper proposes the significant factors that caused the failure of hardware startups. However, we could still improve it. To diverse the data formats and bypass the limitation of Doc format, then include video and audio formats in your data. To divers’ failure factors then include Content Analysis. To make the search engine specific then use specific hardware startups words in keywords, e.g., including AI and IoT words to be involved with industries like Intel and Ubuntu, which share the same interest in these startups.
 
 - Keywords: hardware startups, failure factors, Gray literature, case study
-- Gilgamesh is the laboratory part for research study `<br />`
-  Developed by Heider Jeffer (hjeffer@unibz.it) `<br />`
+- Gilgamesh is the laboratory part for research study 
+  Developed by Heider Jeffer (hjeffer@unibz.it)
   Supervisor Professor Xiaofeng Wang (xiaofeng.wang@unibz.it)
-- Gilgamesh Official Website  `<br />`
+- Gilgamesh Official Website
   https://github.com/HeiderJeffer/Gilgamesh
 - Submitted to
   Free University of Bolzano - Faculty of Computer Science
