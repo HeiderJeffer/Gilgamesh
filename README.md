@@ -41,7 +41,7 @@ Nvivo 12 (MAC) <br />
 Atlas ti <br />
 QDPX <br />
 Diagram https://www.diagrams.net/ <br />
-The Command Line `<br />`
+The Command Line <br />
 git clone https://github.com/HeiderJeffer/Gilgamesh <br />
 git push  https://github.com/HeiderJeffer/Gilgamesh <br />
 git pull  https://github.com/HeiderJeffer/Gilgamesh <br />
