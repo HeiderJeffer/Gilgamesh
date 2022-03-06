@@ -75,7 +75,7 @@ Post-MortemsGray Literature
 
 This Figure represent Gilgamesh Demo showing how we process our the database in Gilgamesh, using  Theranos as an exemplar case. The whole image represent Theranos document, this is  how our the data looks like,then  the right side of the image represent the coding stripe and in the left side we have the coding for selected item for example we can highlighted the failure factors, product information, Co-Founder, Stage-Fate of the product, Raise CAP, Founded, Founder, Official Website, Services.
 
-![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/f029241a763ba5b029812fbccf6defc5d44069d4/image/2.PNG)
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/2.PNG)
 
 **This project named after Gilgamesh**
 
