@@ -1,4 +1,5 @@
 #### Abstract
+[Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
 
 **Problem Statement:**
 Hardware startups often fail. It is still based on trial-and-error, intuition, individual convenience, without any
@@ -31,6 +32,9 @@ This paper proposes the significant factors that caused the failure of hardware 
 
 Developed by Heider Jeffer (hjeffer@unibz.it)
 Supervisor Professor Xiaofeng Wang (xiaofeng.wang@unibz.it)
+
+![Heider Xiao](https://user-images.githubusercontent.com/23063237/166731471-1a16a7be-9810-4e48-84a6-52bf7ad52768.jpg)
+
 
 **Gilgamesh Official Website**
 
