@@ -33,8 +33,7 @@ This paper proposes the significant factors that caused the failure of hardware 
 Developed by Heider Jeffer (hjeffer@unibz.it)
 Supervisor Professor Xiaofeng Wang (xiaofeng.wang@unibz.it)
 
-![Heider Xiao](https://user-images.githubusercontent.com/23063237/166731471-1a16a7be-9810-4e48-84a6-52bf7ad52768.jpg)
-
+ 
 
 **Gilgamesh Official Website**
 
