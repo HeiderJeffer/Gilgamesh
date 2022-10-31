@@ -132,9 +132,11 @@ In this study we provides a taxonomy of context of factors of hardware startups 
 
 ### 	Implications for future research
 To modify the current research, I suggest implications for the future work, as the following:
-1.	Implications on Thematic Analysis of Video and Audio Data.\
-2.	Implications on Adjusting Search Keywords in Gray Literature and Secondary Data.\
-These implications will improve the depth and the width of the future research.\
+1. Implications on Thematic Analysis of Video and Audio Data.
+
+2. Implications on Adjusting Search Keywords in Gray Literature and Secondary Data.
+
+These implications will improve the depth and the width of the future research.
 
 
 
