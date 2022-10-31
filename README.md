@@ -1,3 +1,10 @@
+# RQ: Why hardware startup fail
+
+[Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
+
+Developed by Heider Jeffer (hjeffer@unibz.it)\
+Supervisor Professor Xiaofeng Wang (xiaofeng.wang@unibz.it)\
+
 ## Problem and Motivation
 
 The research question addressed in this paper is:\
@@ -43,7 +50,9 @@ I developed a Startups Diagram, this diagram defines the startups,
 startups failures, hardware startups and hardware startups failures. The
 Startups Diagram will help us to develop a strategy to identify the
 hardware startup failure product and distinguished it from other
-startups.
+startups. 
+
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/diagram.jpg)
 
 ### Data collection and data analysis
 
@@ -119,4 +128,6 @@ research studies on hardware startups failure, for the following
 research keywords: hardware, startups, fail Therefore, we used Gray
 Literature and Self-Reported Data to bypass this lack. However, Gray
 Literature and Self-Reported Data Collection limited our research.
+
+
 
