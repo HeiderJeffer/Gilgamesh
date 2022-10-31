@@ -10,7 +10,7 @@
 The research question addressed in this study is:\
 R.Q.: Why Do Hardware Startups Fail?\
 Research Objective:\
-Developing sets of logical steps and rules\
+Developing a strategy\
 To Process, Collect, Analyze, Manage & Extract the Failure Factors from
 Any Given Data Size, Structure, and Formats
 
