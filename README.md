@@ -7,12 +7,12 @@ Supervisor Professor Xiaofeng Wang (xiaofeng.wang@unibz.it)\
 
 ## Problem and Motivation
 
-The research question addressed in this paper is:\
-R.Q.: Why Do Hardware Startups Fail?\
-Research Objective:\
-Developing sets of logical steps and rules\
-To Process, Collect, Analyze, Manage & Extract the Failure Factors from
-Any Given Data Size, Structure, and Formats
+>The research question addressed in this paper is:\
+>R.Q.: Why Do Hardware Startups Fail?\
+>Research Objective:\
+>Developing sets of logical steps and rules\
+>To Process, Collect, Analyze, Manage & Extract the Failure Factors from
+>Any Given Data Size, Structure, and Formats
 
 Startups are projects to create products or services and look for
 ongoing business models to sell the product and profit from it under
