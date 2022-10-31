@@ -14,13 +14,17 @@
 >To Process, Collect, Analyze, Manage & Extract the Failure Factors from
 >Any Given Data Size, Structure, and Formats
 
-Startups are projects undertaken by an entrepreneur to create, seek, develop, and validate Goods or services, and look for continuous business models to build that product, sell it and recover the cost and profit from it under uncertainty and extreme.\
+Startups are projects undertaken by an entrepreneur to create, seek, develop, and validate Goods or services, and look for continuous business models to build that product, sell it and recover the cost and profit from it under uncertainty and extreme.
 
-Startup failure is a startup that closes or ceases operations, causing the creditors to lose money, when it is no longer able to turn a profit.\
 
-Hardware startups are startups that build everything that has mass, volume, physically tangible; including a physical part of a computer such as CPU, monitor, mouse motherboard, or ware (such as fittings, cutlery, tools, utensils, or parts of machines) made of metal or equipment, especially for industrial, military, or general us.\
+Startup failure is a startup that closes or ceases operations, causing the creditors to lose money, when it is no longer able to turn a profit.
 
-Hardware startups Failure is Startups failure of product that has mass, volume, and physically tangible.\
+
+Hardware startups are startups that build everything that has mass, volume, physically tangible; including a physical part of a computer such as CPU, monitor, mouse motherboard, or ware (such as fittings, cutlery, tools, utensils, or parts of machines) made of metal or equipment, especially for industrial, military, or general us.
+
+
+Hardware startups Failure is Startups failure of product that has mass, volume, and physically tangible.
+
 
 ![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/Startups%20Diagram.jpg)
 
