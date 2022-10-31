@@ -2,8 +2,8 @@
 
 [Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
 
-Developed by Heider Jeffer (hjeffer@unibz.it)\ 
-Supervisor Professor Xiaofeng Wang (xiaofeng.wang@unibz.it)\ 
+Developed by Heider Jeffer hjeffer@unibz.it\ 
+Supervisor Professor Xiaofeng Wang xiaofeng.wang@unibz.it\
 
 ## Problem and Motivation
 
