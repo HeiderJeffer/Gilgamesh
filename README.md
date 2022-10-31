@@ -126,12 +126,4 @@ Considering thematic analysis on video and audio data side by side with text for
 #### Implications on Adjusting Search Keywords in Gray Literature
 Adjusting Search Keywords in Gray Literature and (Secondary Data), by defining and refine new keywords of the Gray Literature to include the A.I. and IoT hardware startups in the data collection. This new suggestion will move the Gray Literature to the next level to collect data from famous industries like Intel and Ubuntu. This research shared the same interest in A.I. and IoT hardware startups with Intel and Ubuntu.\
 Example:  Adjusting Search Keywords in Gray Literature and Secondary Data: \
-IoT, AI, CPU, Mouse, Monitor, Keyboard, Headphone, Laptop.\
-
-
-
-
-
-
-
-
+IoT, AI, CPU, Mouse, Monitor, Keyboard, Headphone, Laptop.
