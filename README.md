@@ -1,9 +1,19 @@
-# RQ: Why hardware startups fail
+<html>
+   <head>
+     <title>FREE UNIVERSITY OF BOZEN-BOLZANO</title>
+     <title>FACULTY OF COMPUTER SCIENCE</title>
+     <title>Why Hardware Startups Fail</title>
+   </head>
+
+
+
+Heider Jeffer hjeffer@unibz.it. 
+  February 2022
+  
+Supervisor Professor Xiaofeng Wang xiaofeng.wang@unibz.it.
 
 [Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
 
-- Developed by Heider Jeffer hjeffer@unibz.it. 
-- Supervisor Professor Xiaofeng Wang xiaofeng.wang@unibz.it.
 
 ## Problem and Motivation
 
