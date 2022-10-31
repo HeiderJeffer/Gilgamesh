@@ -2,9 +2,11 @@
 [Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
 
 **Problem Statement:**
+
 Hardware startups often fail. It is still based on trial-and-error, intuition, and individual convenience, without any scientific paper, scientific models, or theoretical foundation that could address an answer for why hardware startups fail to improve the future of the hardware startups and the startups in general.
 
 **Research objective:**
+
 The major research question answered in this thesis is: why hardware startups fail. This thesis developed strategy to extract the factors that cause the failure of hardware startups.	
 
 **Approach:**
@@ -13,7 +15,7 @@ The major research question answered in this thesis is: why hardware startups fa
 
 **Research Finding:**
 
-: I find Customer & Market, Hardware Product & Experts, Financial, Lack of Business Model, and Legal Issues; are the major categories that cause the failure of hardware startups. Product strategy mistakes is the most frequent fatal failure factor that reflects the complexity of hardware startups. Pricing Cost Issues: is the factor that explains why hardware startups are challenging and often fail.	
+I find Customer & Market, Hardware Product & Experts, Financial, Lack of Business Model, and Legal Issues; are the major categories that cause the failure of hardware startups. Product strategy mistakes is the most frequent fatal failure factor that reflects the complexity of hardware startups. Pricing Cost Issues: is the factor that explains why hardware startups are challenging and often fail.	
 
 **Contribution:**
 
