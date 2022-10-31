@@ -1,16 +1,15 @@
-<html>
-   <head>
-     <title>FREE UNIVERSITY OF BOZEN-BOLZANO</title>
-     <title>FACULTY OF COMPUTER SCIENCE</title>
-     <title>Why Hardware Startups Fail</title>
-   </head>
+***FREE UNIVERSITY OF BOZEN-BOLZANO***
 
+***FACULTY OF COMPUTER SCIENCE***
 
+***Why Hardware Startups Fail***
 
-Heider Jeffer hjeffer@unibz.it. 
-  February 2022
-  
+Heider Jeffer hjeffer@unibz.it.
+
 Supervisor Professor Xiaofeng Wang xiaofeng.wang@unibz.it.
+
+February 2022
+  
 
 [Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
 
