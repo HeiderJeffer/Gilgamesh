@@ -1,4 +1,4 @@
-# RQ: Why hardware startup fail
+# RQ: Why hardware startups fail
 
 [Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
 
