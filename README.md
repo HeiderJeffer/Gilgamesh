@@ -2,8 +2,8 @@
 
 [Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
 
-Developed by Heider Jeffer hjeffer@unibz.it. \ 
-Supervisor Professor Xiaofeng Wang xiaofeng.wang@unibz.it.\
+- Developed by Heider Jeffer hjeffer@unibz.it. 
+- Supervisor Professor Xiaofeng Wang xiaofeng.wang@unibz.it.
 
 ## Problem and Motivation
 
@@ -22,7 +22,7 @@ Hardware startups are startups that build everything that has mass, volume, phys
 
 Hardware startups Failure is Startups failure of product that has mass, volume, and physically tangible.\
 
-![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/diagram.jpg)
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/Startups%20Diagram.jpg)
 
 
 Hardware startups often failed, it is hard to find successful hardware
