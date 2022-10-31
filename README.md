@@ -95,39 +95,43 @@ Categories\].
 I created a repository on GitHub and call it Gilgamesh to store the
 research materials. It is an open source.
 
-###  Results and limitations
+## 	Limitations of the study
+The nature of the study and the strategy option made before and during working on this research, impacted not only the research’s results, but also some possible limitations that I already knew them even before start working in this project. 
 
-I find 17 major failure factors. I extracted the 17 failure factors from
-38 case study. I grouped the 17 failure factors into five major failure
-factors category (Customer and Market, Hardware Products and Experts,
-Financial, Lack Business Model, and Legal Issues).
 
-The 17 failures factors is the answer of the research question that I
-addressed in this study (Why Hardware Startups Fail). I explained with
-more details every failure factor with at least one exemplar case.
+###	Lack of previous research studies on Hardware startups failures
+Finding previous studies related to hardware startups failure will help to learn and understand the current state of the problem. Lack of previous study can serve as an important opportunity to describe the need for further research on (hardware startups fail) and this gap. Indeed, Lack of previous study is so important, it encouraged me to work on this research to discover a new possible way to solve the hardware startups failure problem, and to fill.
 
-I find that, Product strategy mistakes, Pricing Cost Issues, Poor
-Product are the most critical hardware startup failure factors. I
-provide a guideline for the Data Collection and Data Analysis. This
-guideline will benefit future researchers and encourage them to
-contribute to this study.
+### Gray Literature’s Secondary and Self-reported Data Collection
+I developed three phases strategy for this research relied on Gray Literature to save time, provide large and higher-quality secondary data, I used thematic analysis to process the data. However, the data represent people interview and their opinions on why hardware startups fail, this limited the study because it is not primary data, moreover I must take what people say and the data it might contain several potentials of bias. 
 
-I put my theoretical knowledge into practice to develop strategy to
-collect 43,000,000 units of data to be processed and extract the 38 case
-studies and from these case studies I extract 17 factors and grouped
-them into 5 major categories to answer the research question, I explain
-every factor with exemplar case I discussed the most critical factors. I
-demonstrate the contribution of my research and a reflection on the
-limitation. I collected 58 references, to cite the research.
 
-This research will be exploratory, because of the lack of previous
-research studies on hardware startups failure, this challenge determined
-the nature of the study and the methodology that we will use to answer
-research question. IEEE search engine showing the lack of previous
-research studies on hardware startups failure, for the following
-research keywords: hardware, startups, fail Therefore, we used Gray
-Literature and Self-Reported Data to bypass this lack. However, Gray
-Literature and Self-Reported Data Collection limited our research.
+
+##  Conclusions, implications of the study and directions for future research
+### Conclusion
+In this study we provides a taxonomy of context of factors of hardware startups related to both the hardware startups and the researchers and their definitions, classification and collecting and analysis of over 43,000,000 unites of data only in the initial stage, and processing of over 38 case study and 52 content analysis over these failure factors, guidelines on how to choose the choose failure factors based on any set of data, and how to process them by the Thematic analysis tools and determine relevant results, that could express information in a more straightforward way, or in a way that makes the hidden information in the dataset obvious. I present our process as a possible way of establishing a process to generate frequent sets of factors to the fallen hardware startups from data and their context information.
+
+### 	Implications for future research
+To modify the current research, I suggest implications for the future work, as the following:
+1.	Implications on Thematic Analysis of Video and Audio Data.\
+2.	Implications on Adjusting Search Keywords in Gray Literature and Secondary Data.\
+These implications will improve the depth and the width of the future research.\
+
+
+
+####	Implications on thematic data analysis with video and audio
+Considering thematic analysis on video and audio data side by side with text formats to extract study cases and failure factors in video, audio, and text format. The thematic analysis on video and audio data will help the future research to bypass the limitation of Lack of previous research studies on Hardware startups failures and minimizing the risk of using the Self-reported data on hardware startups failures. Thematic analysis on video and audio data gives the opportunity to collect data from different resources. 
+
+
+#### Implications on Adjusting Search Keywords in Gray Literature
+Adjusting Search Keywords in Gray Literature and (Secondary Data), by defining and refine new keywords of the Gray Literature to include the A.I. and IoT hardware startups in the data collection. This new suggestion will move the Gray Literature to the next level to collect data from famous industries like Intel and Ubuntu. This research shared the same interest in A.I. and IoT hardware startups with Intel and Ubuntu.\
+Example:  Adjusting Search Keywords in Gray Literature and Secondary Data: \
+IoT, AI, CPU, Mouse, Monitor, Keyboard, Headphone, Laptop.\
+
+
+
+
+
 
 
 
