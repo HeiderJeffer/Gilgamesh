@@ -1,86 +1,122 @@
-#### Abstract
-[Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
+## Problem and Motivation
 
-**Problem Statement:**
+The research question addressed in this paper is:\
+R.Q.: Why Do Hardware Startups Fail?\
+Research Objective:\
+Developing sets of logical steps and rules\
+To Process, Collect, Analyze, Manage & Extract the Failure Factors from
+Any Given Data Size, Structure, and Formats
 
-Hardware startups often fail. It is still based on trial-and-error, intuition, and individual convenience, without any scientific paper, scientific models, or theoretical foundation that could address an answer for why hardware startups fail to improve the future of the hardware startups and the startups in general.
+Startups are projects to create products or services and look for
+ongoing business models to sell the product and profit from it under
+uncertainty and extreme.
 
-**Research objective:**
+Hardware startups are startups that build everything that has mass and
+volume that is physically tangible.
 
-The major research question answered in this thesis is: why hardware startups fail. This thesis developed strategy to extract the factors that cause the failure of hardware startups.	
+Hardware startups often failed, it is hard to find successful hardware
+startups to start with, however Theranos was a successful hardware
+startup, valued at 9 billion U.S dollar. Theranos would be an ideal case
+study for a successful hardware startup, but, like most hardware
+startups, Theranos ended in a tragic drama.
 
-**Approach:**
+Theranos's story is the lesson that every hardware startup must learn .
+The fall of Theranos is the story of the failure for the most hardware
+startups that based on individual convenience, intuition, or
+trial-and-error, without any theoretical foundation, scientific models,
+or scientific paper.
 
- I used CB-Insights and Gray Literature to collect the secondary data. I developed a strategy to process the data collection and data analysis related to the research question. I include the relevant data and exclude the irrelevant; I used Thematic analysis tools to extract case studies from included data and failure factors from case studies. I extract hardware startup information from the case study. Finally, I grouped the failure factors into identical categories. I store the study material in the research's official repository named Gilgamesh on GitHub.	
+Repeating the failures is that every hardware startup must be aware of,
+especially in the last years, when we have noticed a famous companies
+like Intel and Lenovo are leaning toward the hardware startups and
+supporting the startups around the globe to build their own hardware.
 
-**Research Finding:**
+Putting the hardware startups on the right track requires hard work,
+time, and effort that I put in this research, to develop a methodology
+and plan to process any given data with any size, types of structure and
+format to the answer for the research question that we addressed in this
+paper (Why hardware startups fail).
 
-I find Customer & Market, Hardware Product & Experts, Financial, Lack of Business Model, and Legal Issues; are the major categories that cause the failure of hardware startups. Product strategy mistakes is the most frequent fatal failure factor that reflects the complexity of hardware startups. Pricing Cost Issues: is the factor that explains why hardware startups are challenging and often fail.	
+##  Research Process and results
 
-**Contribution:**
+I developed a Startups Diagram, this diagram defines the startups,
+startups failures, hardware startups and hardware startups failures. The
+Startups Diagram will help us to develop a strategy to identify the
+hardware startup failure product and distinguished it from other
+startups.
 
-Lack of previous study can serve as an important opportunity to describe the need for further research. The secondary data of this study can be helpful for IoT, Data Science, companies, and institutions relying on hardware startups or Qualitative Data Analysis. Furthermore, this study also suggests clear guidelines; to follow strategy to process the data to accomplish the thematic analysis.
+### Data collection and data analysis
 
-**Future work:**
+I developed strategy to collect and process the data on hardware
+startups failure from Gray Literature and CB-Insights.
 
-I propose the significant factors that caused the failure of hardware startups. However, I could still improve the research depth and width by considering the Thematic Analysis for Video and Audio Data to extract study cases and failure factors from video and audio format and adjusting search keywords of the Gray Literature to include the A.I. and IoT hardware startups in the data collection.
+I developed a strategy to process the data with three phases to answer
+the research question (why hardware startups fail). Phase 1 is for data
+collection. Phase 2 is for data analysis. Finally Phase 3 is for storing
+the research materials. I explain the three phases of the strategy in
+the following steps:
 
-**Keywords:**
+**Phase 1: Data Collection**\
+Step 1: Define and refine search keywords for Google. Result \[(1,3,6)
+Keywords distributed in (Block1, Block2, Block3)\] respectively.\
+Step 2: Apply search keywords to the Google search engine. Result
+\[43,000,000 units of data\]\
+Step 3: Export search results. Result \[580 URLs\].\
+Step 4: Apply inclusion/exclusion criteria to \[Search Results
+Collection A\]. Result \[122 URLs\].\
+Step 5: Identify Relevant URLs from \[Search Results Collection B\].
+Result \[70 Documents\].\
+Step 6: Extract Relevant Cases From \[Document Collection\]. \[Result 18
+Cases\].\
+Step 7: Include Cases from CB-Insights. Result \[24 Cases\].\
+Step 8: Add Case Collection B to Case Collection A. Result \[42
+cases\].\
+Step 9: Merge the Duplicate Cases in \[Case Collection G\]. Result \[38
+Cases\].
 
- hardware startups, failure factors, Gray literature, case study
+**Phase 2: Data Analysis**\
+Step 10: Extract the relevant data from \[Case Collection C\]. Result
+\[Hardware Startups Information\].\
+Step 11: Coding \[Case Collection C\] to identify the failure factors.
+Result \[17 Failure Factors\].\
+Step 12: Group \[17 Failure Factors\] in categories. Result \[5 Major
+Categories\].
 
-**Gilgamesh is the laboratory part for research study**
+**Phase 3: Gilgamesh**\
+I created a repository on GitHub and call it Gilgamesh to store the
+research materials. It is an open source.
 
-Developed by Heider Jeffer (hjeffer@unibz.it)
-Supervisor Professor Xiaofeng Wang (xiaofeng.wang@unibz.it)
+###  Results and limitations
 
- 
+I find 17 major failure factors. I extracted the 17 failure factors from
+38 case study. I grouped the 17 failure factors into five major failure
+factors category (Customer and Market, Hardware Products and Experts,
+Financial, Lack Business Model, and Legal Issues).
 
-**Gilgamesh Official Website**
+The 17 failures factors is the answer of the research question that I
+addressed in this study (Why Hardware Startups Fail). I explained with
+more details every failure factor with at least one exemplar case.
 
-https://github.com/HeiderJeffer/Gilgamesh
+I find that, Product strategy mistakes, Pricing Cost Issues, Poor
+Product are the most critical hardware startup failure factors. I
+provide a guideline for the Data Collection and Data Analysis. This
+guideline will benefit future researchers and encourage them to
+contribute to this study.
 
-**Submitted to**
+I put my theoretical knowledge into practice to develop strategy to
+collect 43,000,000 units of data to be processed and extract the 38 case
+studies and from these case studies I extract 17 factors and grouped
+them into 5 major categories to answer the research question, I explain
+every factor with exemplar case I discussed the most critical factors. I
+demonstrate the contribution of my research and a reflection on the
+limitation. I collected 58 references, to cite the research.
 
-Free University of Bolzano - Faculty of Computer Science
+This research will be exploratory, because of the lack of previous
+research studies on hardware startups failure, this challenge determined
+the nature of the study and the methodology that we will use to answer
+research question. IEEE search engine showing the lack of previous
+research studies on hardware startups failure, for the following
+research keywords: hardware, startups, fail Therefore, we used Gray
+Literature and Self-Reported Data to bypass this lack. However, Gray
+Literature and Self-Reported Data Collection limited our research.
 
-**Software**
-
-Nvivo 12 (Windows)
-QDPX
-Diagram https://www.diagrams.net/
-
-**The Command Line**
-
-git clone https://github.com/HeiderJeffer/Gilgamesh
-git push  https://github.com/HeiderJeffer/Gilgamesh
-git pull  https://github.com/HeiderJeffer/Gilgamesh
-Data Collection and data analysis Developed
-
-Develop sets of logical rules and steps to collect and analyze any data with any size or formatDevelop
-
-![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/diagram.jpg)
-
-Major failure factors that we extracted from the research case studies
-
-![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/majorfactors.jpg)
-
-**Tools**
-
-Thematic Data Analysis and Qualitative Data Analysis.
-
-Gilgamesh Database
-
-Gilgamesh Database collected from:
-CB Insights Startup Failure
-Post-MortemsGray Literature
-
-**Gilgamesh Exemplar case Theranos hardware startups data analytic, using Nvivo 12 software qualitative data analysis**
-
-This Figure represent Gilgamesh Demo showing how we process our the database in Gilgamesh, using  Theranos as an exemplar case. The whole image represent Theranos document, this is  how our the data looks like,then  the right side of the image represent the coding stripe and in the left side we have the coding for selected item for example we can highlighted the failure factors, product information, Co-Founder, Stage-Fate of the product, Raise CAP, Founded, Founder, Official Website, Services.
-
-![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/2.PNG)
-
-**This project named after Gilgamesh**
-
-Gilgamesh was a hero in ancient Mesopotamian mythology and the protagonist of the Epic of Gilgamesh, an epic poem written in Akkadian during the late 2nd millennium BC. He was possibly a historical king of the Sumerian city-state of Uruk, who was posthumously deified. His rule probably would have taken place sometime in the beginning of the Early Dynastic Period (Mesopotamia) (henceforth ED), c. 2900 – 2350 BC, though he became a major figure in Sumerian legend during the Third Dynasty of Ur (c. 2112 – c. 2004 BC).
