@@ -8,10 +8,10 @@
 ## Problem and Motivation
 
 The research question addressed in this study is:
-. R.Q.: Why Do Hardware Startups Fail?\
-- Research Objective,
- - Developing a strategy,
-  - To Process, Collect, Analyze, Manage & Extract the Failure Factors from Any Given Data Size, Structure, and Formats
+R.Q.: Why Do Hardware Startups Fail?
+Research Objective,
+Developing a strategy,
+To Process, Collect, Analyze, Manage & Extract the Failure Factors from Any Given Data Size, Structure, and Formats
 
 
 Startups are projects undertaken by an entrepreneur to create, seek, develop, and validate Goods or services, and look for continuous business models to build that product, sell it and recover the cost and profit from it under uncertainty and extreme.
