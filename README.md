@@ -4,7 +4,7 @@
 
 ***Why Hardware Startups Fail***
 
-Heider Jeffer hjeffer@unibz.it.
+Heider Jeffer hjeffer@unibz.it , hheider.jeffer@gmail.com.
 
 Supervisor Professor Xiaofeng Wang xiaofeng.wang@unibz.it.
 
