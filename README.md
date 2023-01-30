@@ -12,6 +12,9 @@ February 2022
 
 PowerPoint: [Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
 
+## Thesis
+
+https://github.com/HeiderJeffer/Gilgamesh/blob/master/Why%20Hardware%20Startups%20Fail.pdf
 
 ## Problem and Motivation
 
