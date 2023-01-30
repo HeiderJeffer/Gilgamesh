@@ -148,3 +148,57 @@ Considering thematic analysis on video and audio data side by side with text for
 Adjusting Search Keywords in Gray Literature and (Secondary Data), by defining and refine new keywords of the Gray Literature to include the A.I. and IoT hardware startups in the data collection. This new suggestion will move the Gray Literature to the next level to collect data from famous industries like Intel and Ubuntu. This research shared the same interest in A.I. and IoT hardware startups with Intel and Ubuntu.\
 Example:  Adjusting Search Keywords in Gray Literature and Secondary Data: \
 IoT, AI, CPU, Mouse, Monitor, Keyboard, Headphone, Laptop.
+
+
+# Appendix
+
+## PAPER-PROTOTYPE
+
+
+### A 1 Paper-prototype - first activity
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/Appendix%202.jpg)
+
+
+### A 2 Paper-prototype - second activity - Processing the Data Collection
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/Appendix%203.jpg)
+
+
+## Data collection and Data Analysis with NVivo Software
+
+### A 3 Data Analysis: 38 Case in  [Case Collection A] - NVivo
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/Appendix%204.jpg)
+
+### A 4 NVivo: 52 Content Analysis
+
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/NVivo%2052%20Content%20Analysis.jpg)
+
+### A 5 Future Work: Coding the 52 Content Analysis, NVivo
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/A%205%20Future%20Work%20Coding%20the%2052%20Content%20Analysis%2C%20NVivo.jpg)
+
+
+### A 6 17 failure factors extracted from 38 case study, NVivo
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/A%206%2017%20failure%20factors%20extracted%20from%2038%20case%20study%2C%20NVivo.jpg)
+
+
+### A 7 Groping 17 failure factors into 5 major categories, NVivo
+
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/A%207%20Groping%2017%20failure%20factors%20into%205%20major%20categories%2C%20NVivo.jpg)
+
+
+### A 8 Extracting Hardware Startups Fail information, NVivo
+
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/A%208%20Extracting%20Hardware%20Startups%20Fail%20information%2C%20NVivo.jpg)
+
+
+### A 9  Future Work: including video and audio in the data collection
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/A%209%20%20Future%20Work%20including%20video%20and%20audio%20in%20the%20data%20collection.jpg)
+
+## 8.3	Data of [Case Collection B]
+You can the output of: Extracting the relevant data from Case Collection B, in Gilgamesh at:
+
+https://github.com/HeiderJeffer/Gilgamesh/blob/master/Outcome%20of%20Extracting% 20the%20relevant%20data%20from%20Case%20Collection%20B.pdf
+
+
+
+
+
