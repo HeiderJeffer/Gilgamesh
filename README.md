@@ -194,9 +194,13 @@ IoT, AI, CPU, Mouse, Monitor, Keyboard, Headphone, Laptop.
 ![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/A%209%20%20Future%20Work%20including%20video%20and%20audio%20in%20the%20data%20collection.jpg)
 
 ## 8.3	Data of [Case Collection B]
+
+
 You can the output of: Extracting the relevant data from Case Collection B, in Gilgamesh at:
 
-https://github.com/HeiderJeffer/Gilgamesh/blob/master/Outcome%20of%20Extracting% 20the%20relevant%20data%20from%20Case%20Collection%20B.pdf
+https://github.com/HeiderJeffer/Gilgamesh/blob/master/Outcome%20of%20Extracting%20the%20relevant%20data%20from%20Case%20Collection%20B.pdf
+
+
 
 
 
