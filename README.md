@@ -1,8 +1,7 @@
-***FREE UNIVERSITY OF BOZEN-BOLZANO***
+# FREE UNIVERSITY OF BOZEN-BOLZANO
+# FACULTY OF COMPUTER SCIENCE
 
-***FACULTY OF COMPUTER SCIENCE***
-
-***Why Hardware Startups Fail***
+# Why Hardware Startups Fail
 
 Heider Jeffer hjeffer@unibz.it , hheider.jeffer@gmail.com.
 
