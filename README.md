@@ -131,6 +131,7 @@ In this study we provides a taxonomy of context of factors of hardware startups 
 
 ### 	Implications for future research
 To modify the current research, I suggest implications for the future work, as the following:
+
 1. Implications on Thematic Analysis of Video and Audio Data.
 
 2. Implications on Adjusting Search Keywords in Gray Literature and Secondary Data.
@@ -139,15 +140,15 @@ These implications will improve the depth and the width of the future research.
 
 
 
-
-
-
-
 ####	Implications on thematic data analysis with video and audio
 Considering thematic analysis on video and audio data side by side with text formats to extract study cases and failure factors in video, audio, and text format. The thematic analysis on video and audio data will help the future research to bypass the limitation of Lack of previous research studies on Hardware startups failures and minimizing the risk of using the Self-reported data on hardware startups failures. Thematic analysis on video and audio data gives the opportunity to collect data from different resources. 
 
- NVivo Process video of (CEO) of Theranos Elizabeth Anne Holmes - Implications on thematic data analysis with video and audio
+ Atlas ti Process video (MP4) of (CEO) of Theranos Elizabeth Anne Holmes - Implications on thematic data analysis with video and audio
 ![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/2.PNG)
+
+ NVivo Process videos (MP4) of (CEO) of Theranos Elizabeth Anne Holmes - Implications on thematic data analysis with video and audio
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/gilgamesh-video.jpg)
+
 
 #### Implications on Adjusting Search Keywords in Gray Literature
 Adjusting Search Keywords in Gray Literature and (Secondary Data), by defining and refine new keywords of the Gray Literature to include the A.I. and IoT hardware startups in the data collection. This new suggestion will move the Gray Literature to the next level to collect data from famous industries like Intel and Ubuntu. This research shared the same interest in A.I. and IoT hardware startups with Intel and Ubuntu.\
