@@ -1,7 +1,8 @@
+# Gilgamesh Master Thesis Project
 # FREE UNIVERSITY OF BOZEN-BOLZANO
 # FACULTY OF COMPUTER SCIENCE
 
-# Why Hardware Startups Fail
+# RQ: Why Hardware Startups Fail
 
 Heider Jeffer hjeffer@unibz.it , hheider.jeffer@gmail.com.
 
