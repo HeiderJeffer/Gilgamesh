@@ -1,14 +1,11 @@
-# Gilgamesh Master Thesis Project
-# FREE UNIVERSITY OF BOZEN-BOLZANO
-# FACULTY OF COMPUTER SCIENCE
+<img src = "https://github-vistors-counter.onrender.com/github?username=<your github username>" alt = "Visitors-Counter"/>
 
-# RQ: Why Hardware Startups Fail
-
-Heider Jeffer hjeffer@unibz.it , hheider.jeffer@gmail.com.
-
-Supervisor Professor Xiaofeng Wang xiaofeng.wang@unibz.it.
-
-February 2022
+# FREE UNIVERSITY OF BOZEN-BOLZANO FACULTY OF COMPUTER SCIENCE
+- Gilgamesh Master Thesis Project
+- RQ: Why Hardware Startups Fail
+- Heider Jeffer hjeffer@unibz.it , hheider.jeffer@gmail.com.
+- Supervisor Professor Xiaofeng Wang xiaofeng.wang@unibz.it.
+- February 2022
   
 
 PowerPoint: [Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
