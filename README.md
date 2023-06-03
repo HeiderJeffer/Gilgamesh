@@ -1,5 +1,5 @@
 # FREE UNIVERSITY OF BOZEN-BOLZANO FACULTY OF COMPUTER SCIENCE
-<img src = "https://github-vistors-counter.onrender.com/github?username=<your github username>" alt = "Visitors-Counter"/>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Gilgamesh/" alt = "Visitors-Counter"/>
 - Gilgamesh Master Thesis Project
 - RQ: Why Hardware Startups Fail
 - Heider Jeffer hjeffer@unibz.it , hheider.jeffer@gmail.com.
