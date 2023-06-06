@@ -117,8 +117,14 @@ Categories\].
 I created a repository on GitHub and call it Gilgamesh to store the
 research materials. It is an open source.
 
+
+![alt text](https://github.com/HeiderJeffer/Gilgamesh/blob/master/image/22.jpg)
+
+
+
 ## 	Limitations of the study
 The nature of the study and the strategy option made before and during working on this research, impacted not only the research’s results, but also some possible limitations that I already knew them even before start working in this project. 
+
 
 
 ###	Lack of previous research studies on Hardware startups failures
