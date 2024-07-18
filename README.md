@@ -13,12 +13,6 @@
 
 PowerPoint: [Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
 
-## Thesis
-
-https://github.com/HeiderJeffer/Gilgamesh/blob/master/Why%20Hardware%20Startups%20Fail.pdf
-
-
-
 
 #### Abstract
 This thesis addresses the high failure rate of hardware startups, which is often driven by trial-and-error methods and lacks a solid theoretical foundation. The primary research question is: Why do hardware startups fail? The study aims to identify the factors contributing to the failure of hardware startups through a systematic data collection and analysis process.
