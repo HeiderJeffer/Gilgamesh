@@ -1,7 +1,7 @@
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Gilgamesh/" alt = "Visitors-Counter"/>
+
 ### FREE UNIVERSITY OF BOZEN-BOLZANO FACULTY OF COMPUTER SCIENCE
 ### Summary of "Why Hardware Startups Fail" by Heider Jeffer
-
-<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Gilgamesh/" alt = "Visitors-Counter"/>
 
 
 - Gilgamesh Master Thesis Project
