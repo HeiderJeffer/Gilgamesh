@@ -1,19 +1,20 @@
 <img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/Gilgamesh/" alt = "Visitors-Counter"/>
 
 #### FREE UNIVERSITY OF BOZEN-BOLZANO FACULTY OF COMPUTER SCIENCE
-#### Summary of "Why Hardware Startups Fail" by Heider Jeffer
 
+# Master's Thesis Summary
+# Why Hardware Startups Fail
 
-- Gilgamesh Master Thesis Project
-- RQ: Why Hardware Startups Fail
-- Heider Jeffer hjeffer@unibz.it , hheider.jeffer@gmail.com.
-- Supervisor Professor Xiaofeng Wang xiaofeng.wang@unibz.it.
-- February 2022
-  
+**An Exploratory Study through Secondary Data Analysis**
 
-PowerPoint: [Why Hardware Startups Fail.pptx](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)
-
-PDF: https://drive.google.com/file/d/1bZvNbYk2SI09rM9WKZpv-oSZDr06BuSe/view?usp=sharing
+* **Author:**  [Heider Jeffer](https://github.com/HeiderJeffer)
+* **Supervisor:** [Prof. Xiaofeng Wang](https://www.unibz.it/en/faculties/engineering/academic-staff/person/31445-xiaofeng-wang)
+* **University:** Free University of Bozen-Bolzano, Faculty of Computer Science
+* **Submitted:** February 2022
+* **Contact:** [hjeffer@unibz.it](mailto:hjeffer@unibz.it) | [hheider.jeffer@gmail.com](mailto:hheider.jeffer@gmail.com)
+* **[Project Repository](https://github.com/HeiderJeffer/Gilgamesh)**
+* **[Presentation (PPTX)](https://github.com/HeiderJeffer/Gilgamesh/files/8622357/Why.Hardware.Startups.Fail.pptx)**
+* **[Full Thesis (PDF)](https://drive.google.com/file/d/1bZvNbYk2SI09rM9WKZpv-oSZDr06BuSe/view?usp=sharing)**
 
 
 
